@@ -1,0 +1,6 @@
+2025-09-01 15:15:05,243 - INFO - networksecurity - Enter the try block
+2025-09-01 15:15:05,243 - ERROR - networksecurity - An exception occurred
+Traceback (most recent call last):
+  File "/Users/mayuripatil/Documents/NetworkSecurity/networksecurity/exception/exception.py", line 19, in <module>
+    x = 1 / 0   # Force error
+ZeroDivisionError: division by zero
